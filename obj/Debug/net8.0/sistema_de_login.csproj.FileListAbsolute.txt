@@ -1,0 +1,17 @@
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\bin\Debug\net8.0\sistema_de_login.exe
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\bin\Debug\net8.0\sistema_de_login.deps.json
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\bin\Debug\net8.0\sistema_de_login.runtimeconfig.json
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\bin\Debug\net8.0\sistema_de_login.dll
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\bin\Debug\net8.0\sistema_de_login.pdb
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\bin\Debug\net8.0\BCrypt.Net.dll
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\obj\Debug\net8.0\sistema_de_login.csproj.AssemblyReference.cache
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\obj\Debug\net8.0\sistema_de_login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\obj\Debug\net8.0\sistema_de_login.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\obj\Debug\net8.0\sistema_de_login.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\obj\Debug\net8.0\sistema_de_login.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\obj\Debug\net8.0\sistema_de_login.csproj.CopyComplete
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\obj\Debug\net8.0\sistema_de_login.dll
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\obj\Debug\net8.0\refint\sistema_de_login.dll
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\obj\Debug\net8.0\sistema_de_login.pdb
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\obj\Debug\net8.0\sistema_de_login.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_login\obj\Debug\net8.0\ref\sistema_de_login.dll
